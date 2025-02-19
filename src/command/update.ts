@@ -5,7 +5,7 @@ export async function update() {
   try {
     // 执行 npm update 命令更新包
     console.log(chalk.blue('正在更新 david-quick-start-cli...'));
-    execSync('npm update david-quick-start-cli -g', { stdio: 'inherit' });
+    execSync('npm install david-quick-start-cli@latest -g', { stdio: 'inherit' });
     
     // 获取更新后的版本
     const newVersion = execSync('npm view david-quick-start-cli version').toString().trim();
