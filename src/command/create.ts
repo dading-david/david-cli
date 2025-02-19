@@ -53,7 +53,7 @@ export async function create(projectName?: string) {
     });
   }
   // 如果文件夹存在，则提示是否覆盖
-  const filePath = path.resolve(process.cwd(), '..', projectName);
+  const filePath = path.resolve(process.cwd(), projectName);
   if (fs.existsSync(filePath)) {
     const run = await isOverwrite(projectName);
     if (run) {
