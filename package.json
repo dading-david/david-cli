@@ -1,6 +1,6 @@
 {
   "name": "david-quick-start-cli",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "david-quick-start-cli",
   "main": "index.js",
   "scripts": {
