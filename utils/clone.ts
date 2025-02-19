@@ -45,7 +45,7 @@ export const clone = async (
     // 下面就是一些相关的提示
     console.log()
     console.log(chalk.blueBright(`==================================`))
-    console.log(chalk.blueBright(`=== 欢迎使用 David-cli 脚手架 ===`))
+    console.log(chalk.blueBright(`=== 欢迎使用 david-cli 脚手架 ===`))
     console.log(chalk.blueBright(`==================================`))
     console.log()
   } catch (error) {
