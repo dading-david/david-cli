@@ -19,12 +19,6 @@ npm install david-quick-start-cli -g
 david create
 ```
 
-## 项目结构
-
-```bash
-david create
-```
-
 ## 查看脚手架版本
 
 ```bash
