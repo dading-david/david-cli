@@ -27,7 +27,7 @@ const logger = createLogger({
 });
 
 const gitOptions: Partial<SimpleGitOptions> = {
-  baseDir: path.resolve(process.cwd(), '..'), // 根目录的上级目录
+  baseDir: path.resolve(process.cwd()), // 根目录的上级目录
   binary: "git", // 二进制文件
   maxConcurrentProcesses: 6, // 最大并发数
 };
