@@ -1,7 +1,7 @@
 {
-  "name": "david-cli",
+  "name": "david-quick-start-cli",
   "version": "0.0.1",
-  "description": "david-cli",
+  "description": "david-quick-start-cli",
   "main": "index.js",
   "scripts": {
     "build": "rollup -c rollup.config.js --bundleConfigAsCjs",
