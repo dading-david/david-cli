@@ -16,12 +16,12 @@ npm install david-quick-start-cli -g
 ## 使用
 
 ```bash
-david create
+dqs create
 ```
 
 ## 查看脚手架版本
 
 ```bash
-david -v
-david --version
+dqs -v
+dqs --version
 ```

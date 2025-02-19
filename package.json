@@ -20,7 +20,7 @@
   ],
   "author": "David",
   "bin": {
-    "david": "./bin/index.js"
+    "dqs": "./bin/index.js"
   },
   "files": [
     "bin",
