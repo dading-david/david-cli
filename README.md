@@ -5,7 +5,7 @@
 - david-cli 是一个基于 Vue3、TypeScript、Pinia、Vue-Router、Vuex 的脚本工具，用于快速创建项目。
 
 ## 📕模板
-- 快速生成Vue3+TS+Vite+ElementPlus+Pinia+Axios+Mock的模板
+- 快速生成[Vue3+TS+Vite+ElementPlus+Pinia+Axios+Mock](https://github.com/dading-david/admin-pro)的模板
 
 ## 安装
 
